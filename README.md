@@ -66,6 +66,7 @@ Run the script by providing the domain name as an argument:
 <p align="center">
   <img src="https://adperem.github.io/assets/img/recon_subdomains/recon_subdomains-ejemplo.png" alt="RECON SUBDOMAINS example" width="300"/>
 </p>
+
 This will create a directory called `output_example.com` containing the results:
 - **subfinder.txt**: Subdomains discovered by subfinder.
 - **assetfinder.txt**: Additional subdomains from assetfinder.
